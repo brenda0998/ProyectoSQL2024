@@ -12,7 +12,7 @@ Cada sala tiene un identificador único, un nombre, capacidad máxima y un tipo 
 
 El cine proyecta varias películas. Cada película tiene un título, género, duración (en minutos), idioma, y clasificación por edades. Una película puede proyectarse en varias salas y horarios diferentes.
 
-##Horarios de Función:
+#Horarios de Función:
 
 Cada película tiene horarios específicos para cada sala. Un horario de función incluye la fecha, hora de inicio, sala asignada y película asociada.
 
@@ -25,6 +25,7 @@ Los clientes pueden comprar entradas para una función específica. Cada entrada
 Los clientes deben registrarse para comprar entradas en línea. Se almacenan datos básicos como su nombre, correo electrónico, número de teléfono y un historial de compras. Un cliente puede realizar compras para distintas funciones, y cada compra debe tener un identificador único y fecha.
 
 #Métodos de Pago:
+
 Los clientes pueden pagar sus entradas mediante tarjeta de crédito, débito o efectivo. El sistema debe guardar el método de pago utilizado y un número de referencia para las transacciones.
 
 ## Modelo Entidad-Relación
