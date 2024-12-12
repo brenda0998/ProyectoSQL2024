@@ -26,3 +26,6 @@ Los clientes deben registrarse para comprar entradas en línea. Se almacenan dat
 
 #Métodos de Pago:
 Los clientes pueden pagar sus entradas mediante tarjeta de crédito, débito o efectivo. El sistema debe guardar el método de pago utilizado y un número de referencia para las transacciones.
+
+##Modelo Entidad-Relación
+https://docs.google.com/drawings/d/1uRH-iqVfWFoQhhikv1ekPyCflvKUyDBviC57GpAaH9A/edit
