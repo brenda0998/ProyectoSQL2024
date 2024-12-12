@@ -35,4 +35,8 @@ Los clientes pueden pagar sus entradas mediante tarjeta de crédito, débito o e
 ## Modelo Entidad-Relación
 ![Trabajo 01_Brenda Sánchez H  (1)](https://github.com/user-attachments/assets/ab36be10-dcdd-47d0-a603-6ccc2466cd6e)
 
+## Modelo Lógico
+![trabajo-2_1](https://github.com/user-attachments/assets/22d4ee89-6be7-4903-8a8c-dc6843976523)
+
+
 
