@@ -22,13 +22,17 @@ Los clientes pueden comprar entradas para una función específica. Cada entrada
 
 #Clientes:
 
-Los clientes deben registrarse para comprar entradas en línea. Se almacenan datos básicos como su nombre, correo electrónico, número de teléfono y un historial de compras. Un cliente puede realizar compras para distintas funciones, y cada compra debe tener un identificador único y fecha.
+Los clientes deben registrarse para comprar entradas en línea. Se almacenan datos básicos como su nombre, correo electrónico, número de teléfono. Un cliente puede realizar compras para distintas funciones, y cada compra debe tener un identificador único y fecha.
+
+#Transacción:
+
+Servirá como intermediaria para manejar los pagos realizados por los clientes al adquirir entradas. Cada transacción tiene un único método de pago asociado.
 
 #Métodos de Pago:
 
-Los clientes pueden pagar sus entradas mediante tarjeta de crédito, débito o efectivo. El sistema debe guardar el método de pago utilizado y un número de referencia para las transacciones.
+Los clientes pueden pagar sus entradas mediante tarjeta de crédito, débito o efectivo. Cada método de pago tiene un identificador único y un tipo.
 
 ## Modelo Entidad-Relación
-![Trabajo 01_Brenda Sánchez H](https://github.com/user-attachments/assets/8386d053-2c77-4d45-8c27-342390c6e0ee)
+![Trabajo 01_Brenda Sánchez H  (1)](https://github.com/user-attachments/assets/ab36be10-dcdd-47d0-a603-6ccc2466cd6e)
 
 
