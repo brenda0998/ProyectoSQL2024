@@ -6,11 +6,11 @@ GO
 
 --CINE
 CREATE TABLE cine(
-		id INT PRIMARY KEY IDENTITY(1,1),
-		nombre VARCHAR(100) NOT NULL,
-		direccion VARCHAR(255) NOT NULL,
-		horario_apertura TIME,
-		horario_cierre TIME
+	id INT PRIMARY KEY IDENTITY(1,1),
+	nombre VARCHAR(100) NOT NULL,
+	direccion VARCHAR(255) NOT NULL,
+	horario_apertura TIME,
+	horario_cierre TIME
 );
 GO
 
