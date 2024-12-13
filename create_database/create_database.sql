@@ -37,3 +37,14 @@ CREATE TABLE clientes(
 	direccion VARCHAR (255) NOT NULL,
 );
 GO
+
+--SALA
+CREATE TABLE sala (
+    id INT PRIMARY KEY IDENTITY(1,1),
+    numero_sala VARCHAR(50) NOT NULL,
+    capacidad INT NOT NULL,
+    tipo_sala VARCHAR(50) NOT NULL,
+    id_cine INT NOT NULL,
+    CONSTRAINT FK_sala_cine FOREIGN KEY (id_cine) REFERENCES cine(id)
+);
+GO
