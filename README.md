@@ -36,7 +36,12 @@ Los clientes pueden pagar sus entradas mediante tarjeta de crédito, débito o e
 ![Trabajo 01_Brenda Sánchez H  (1)](https://github.com/user-attachments/assets/ab36be10-dcdd-47d0-a603-6ccc2466cd6e)
 
 ## Modelo Lógico
-![trabajo-2_1](https://github.com/user-attachments/assets/4ec6dd6d-ce1b-4fea-8d75-17bf916c6593)
+![trabajo-2_1](https://github.com/user-attachments/assets/0256732c-50cb-4ae2-aed0-35f373fc05db)
+
+## Modelo Físico
+![image](https://github.com/user-attachments/assets/1351b0e1-0a77-4121-b7dc-992f3fe5d374)
+
+
 
 
 
