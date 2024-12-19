@@ -1,5 +1,4 @@
-## proyecto_final_bda_2024
-##Tema elegido: Sistema de Ventas de Entradas en un Cine.
+## Proyecto Final: Gestión de Sistema de Ventas de Entradas en un Cine
 
 ##Caso Propuesto:
 Un cine desea implementar un sistema de información para gestionar la venta de entradas. El sistema debe permitir el registro y seguimiento de los siguientes aspectos:
