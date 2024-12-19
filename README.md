@@ -1,4 +1,4 @@
-## Proyecto Final: Gestión de Sistema de Ventas de Entradas en un Cine
+## Proyecto Final: Gestión del Sistema de Ventas de Entradas en un Cine
 
 ##Caso Propuesto:
 Un cine desea implementar un sistema de información para gestionar la venta de entradas. El sistema debe permitir el registro y seguimiento de los siguientes aspectos:
